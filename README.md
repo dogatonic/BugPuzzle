@@ -9,4 +9,8 @@ Basically it works like this. Pick a piece at random, then randomly orient it (0
 
 I have seen it solve the puzzle in as many rounds as 4000+ and as few as just 4 rounds.
 
-Check the JS console to see more solving data.
+Check the JS console to see more solving data!
+
+![bug puzzle unsolved](http://matttucker.com/bugpuzzle/png/shot.png)
+
+*The puzzle unsolved*
