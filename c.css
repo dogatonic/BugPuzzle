@@ -1,0 +1,26 @@
+#gameBoard {
+	display: grid;
+	grid-template-columns: 120px 120px 120px;
+	grid-template-rows: 120px 120px 120px;
+	grid-column-gap: 4px;
+	grid-row-gap: 4px;
+	grid-template-areas: 
+	"g1 g2 g3" 
+	"g4 g5 g6" 
+	"g7 g8 g9";
+}
+
+body {
+	margin: 200px auto 0px auto;
+	width: 90%;
+}
+
+#controls {
+	padding:30px 0px 0px 50px;
+}
+#controls a {
+	cursor: pointer;
+	font-weight: bolder;
+	font-size: 2em;
+
+}
