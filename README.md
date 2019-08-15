@@ -1,5 +1,5 @@
 # BugPuzzle
-A javascript brute force solving of a 9 tile puzzle
+A javascript brute force solving of a 9 tile puzzle: http://matttucker.com/bugpuzzle/
 
 This is a recreation of a program I wrote a few years ago in Flash, rewritten in JavaScript. It started with a novelty puzzle I was given as a gift. The puzzle is just 9 square tiles that you freely arrange until all the sides "match up" in a 3x3 grid. Rather than solve the puzzle in the "real world", I decide to solve it computationally. 
 
